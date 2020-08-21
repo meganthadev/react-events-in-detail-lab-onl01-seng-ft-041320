@@ -10,7 +10,7 @@ handleClick = event => {
 };
 
 render() {
-    return <button onClick={this.handleClick}>Click here</button>;
+    return <button onClick={this.handleClick}>Delay</button>;
 }
 
 }
